@@ -1,6 +1,19 @@
-title: <p align = 'center'> Swaraj Meshram </p>
+title: <p align="center"> Swaraj Meshram </p>
 logo: /assets/img/logo.jpeg
-description: to showcase the porjects
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/swaraj-meshram-1498n/">LinkedIn</a> |
+  <a href="https://github.com/meshramswaraj">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with Infosys at Data Migration team.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
